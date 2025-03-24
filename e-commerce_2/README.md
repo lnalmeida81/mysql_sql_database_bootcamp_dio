@@ -1,19 +1,7 @@
-# 📦 Projeto: Banco de Dados E-commerce
+#  Construindo seu Primeiro Projeto Lógico de Banco de Dados
 
-Este projeto contém a estrutura e operações para um banco de dados MySQL usado em um sistema de e-commerce.
+### Desafio de projeto
 
-## 📁 Estrutura do Banco de Dados
-
-O banco de dados contém as seguintes tabelas:
-
-- `clientes` → Armazena os dados dos clientes.
-- `pedidos` → Registra os pedidos feitos pelos clientes.
-- `produtos` → Contém a lista de produtos disponíveis na loja.
-- `estoque` → Gerencia a quantidade de produtos disponíveis.
-
-## 🚀 Configuração
-
-1. Instale o MySQL Server.
-2. Crie o banco de dados:
-   ```sql
-   CREATE DATABASE ecommerce;
+Neste desafio, você terá a oportunidade de criar seu primeiro projeto lógico de banco de dados utilizando o MySQL.  
+O objetivo é replicar a modelagem de um banco de dados para um cenário de e-commerce.  
+Prepare-se para aplicar seus conhecimentos em modelagem de banco de dados e traduzir os requisitos do cenário em uma estrutura lógica coerente usando o MySQL.
